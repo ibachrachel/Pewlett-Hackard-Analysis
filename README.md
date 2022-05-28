@@ -61,4 +61,15 @@ The highest amount of retirees are in the Senior Engineer role, closely followed
 
 *How many roles will need to be filled as the "silver tsunami" begins to make an impact?*
 
+That refined table of the unique titles of the retirees has around 74,000 positions, which means that the human resources department should start interally recruiting for the senior positions and fill as many as those as they can in the near future, but in the more distant future (2-7 years), they need to start actively seeking out individuals to fill in more entry-level positions. 
+
+
 *Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?*
+
+No, there are not enough mentors to go around. Our table yielded about 1,500 individuals who would be able to mentor new employees. These mentors might be spread thin in some departments, while others are more well covered. They have too many open positions for the mentor program to go smoothly. Perhaps a wider network of mentors could be made with more than just the retirees to help buffer the need for experienced employees. 
+
+*Additional Queries*
+- The company should also think about breaking down recruiting by department. This way it can be a more focused effort for departments that will be severely affected by the massive turnover. The retirees are leaving senior positions, which are harder to replace. Interal movement could be promoted to long term employees to help buffer the need for job positions that require lots of knowledge and experience. 
+
+- In the near future, the HR department should determine how many people are leaving in each fiscal year and then plan their recruiting around that. Their best bet is to hire externally for lower positions and move the lower positions up. They need to determine which department is losing employees the soonest to plan on how that will affect the company's budget. If 
+
