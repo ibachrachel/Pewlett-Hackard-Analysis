@@ -46,8 +46,7 @@ ORDER BY rt.emp_no, rt.to_date DESC;`
 
 - Knowing which jobs will have to be replaced and filled will signficantly assist the human resources department in the hiring process. By sorting by the job titles, the total count can be generated for each. This will help determine how many positions of each title will need to be advertised. 
 (https://user-images.githubusercontent.com/102566199/170809912-441d4cf4-6467-4d01-8e97-51f1899acf21.png)
-
-![Table 1: Retirees' Titles in Descending Order]
+[Table 1: Retirees' Titles in Descending Order]
 
 The highest amount of retirees are in the Senior Engineer role, closely followed by Senior Staff. 
 
